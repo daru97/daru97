@@ -1,5 +1,5 @@
 - 👋 Hola! mi nombre es Daniela Álvarez
-- 🌱 Acabo de completar un bootcamp en Desarrollo Full Stack con Java.
+- 🌱 Acabo de completar un bootcamp en Desarrollo de aplicaciones Full Stack con Java.
 - 👀 Estoy interesada en el desarrollo front end y la ilustración.
 - 💞️ Me emociona combinar mis habilidades tecnológicas con mi creactividad artistica en proyectos innovadores y atractivos.
 - 📫 Contacto: danielapaz.aru@gmail.com
